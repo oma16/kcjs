@@ -1,0 +1,105 @@
+html,body{
+    overflow-x: hidden;
+}
+ .min{
+     height: 70vh;
+     width: 700px;
+}
+.base,.sectionh{
+    height: 100vh;
+}
+.purple{
+    background-color: #5e51a9;
+}
+.white-one{
+    height: 200px;
+}
+.img{
+    margin-top: 50px;
+}
+.about{
+    margin-left: 250px;
+    }
+.new{
+        background-color: #e499bf;
+    }
+.org{
+        background-color: #f2f2f2;
+    }
+.media{
+        width: 32px;
+        height: 32px;
+}
+    .lab{
+        width: 100px;
+}
+    .tc2{
+        color: #e499bf;
+}
+    .tc{
+        color:#5e51a9;
+}
+    .txt{
+        font-size: 1.29rem;
+}
+    .candy{
+     font-size: 3.5rem;
+}
+    .hor{
+        width: 400px;
+        background-color: rgb(199, 8, 88);
+}
+    .how{
+        font-size: 1.2rem;
+}
+    .font{
+        font-weight: 800;
+}
+    .con{
+        height: 20vh ;
+}
+    .wave{
+        height: 120px;
+        width: 120px;
+}
+.ref{
+        height: 50vh
+    }
+.refimg{
+        width: 500px;
+}
+    .gh-min{
+        height: 100vh;
+}
+    .space{
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }    
+@media(max-width:767px){
+    .ref{
+        height: 87vh ;
+    }
+    .refimg{
+        width: 825px ;
+    }
+    .gh-min {
+        height: 174vh;
+    }
+}
+@media(max-width:425px){
+    .about{
+        margin-left:69px;
+        margin-top: 130px;
+    }
+}
+@media(max-width:320px){
+    .about{
+        margin-left:51px;
+        margin-top: 100px;
+        }
+}
+
+    
+    
+    
+
